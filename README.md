@@ -4,7 +4,7 @@
 - [x] ~~Qrcode, Barcode Generator.~~ :tada:
 - [ ] JavaScript Calculator
 - [ ] JavaScript BMI Calculator
-- [ ] JavaScript Clock [Digital]
+- [ ] ~~JavaScript Clock [Digital]~~ :tada:
 - [ ] JavaScript Clock [Analog]
 - [ ] Tick Tack Toe
 - [ ] Hangman Game
