@@ -1,4 +1,4 @@
 # javascript-projects
 
-#### ***Next :***
+#### ***Projects :***
 - [x] ~~Qrcode, Barcode Generator.~~ :tada:
