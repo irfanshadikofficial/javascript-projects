@@ -4,7 +4,7 @@
 - [x] [~~Qrcode, Barcode Generator.~~](https://proffesorghost.github.io/qrcode-barcode/) :tada:
 - [ ] JavaScript Calculator.
 - [x] [~~JavaScript BMI Calculator.~~](https://proffesorghost.github.io/bmi-calculator/) :tada:
-- [x] ~~JavaScript Clock [Digital]~~ :tada:
+- [x] [~~JavaScript Clock [Digital]~~](https://proffesorghost.github.io/js-digital-clock/) :tada:
 - [ ] JavaScript Clock. [Analog]
 - [ ] Tick Tack Toe.
 - [ ] Hangman Game.
