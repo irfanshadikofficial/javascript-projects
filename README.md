@@ -3,7 +3,7 @@
 #### ***Projects :***
 - [x] ~~Qrcode, Barcode Generator.~~ :tada:
 - [ ] JavaScript Calculator.
-- [x] ~~JavaScript BMI Calculator.~~ :tada:
+- [x] [~~JavaScript BMI Calculator.~~](https://proffesorghost.github.io/bmi-calculator/) :tada:
 - [x] ~~JavaScript Clock [Digital]~~ :tada:
 - [ ] JavaScript Clock. [Analog]
 - [ ] Tick Tack Toe.
