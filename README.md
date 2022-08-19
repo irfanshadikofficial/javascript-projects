@@ -1,7 +1,7 @@
 # javascript-projects
 
 #### ***Projects :***
-- [x] ~~Qrcode, Barcode Generator.~~ :tada:
+- [x] [~~Qrcode, Barcode Generator.~~](https://proffesorghost.github.io/qrcode-barcode/) :tada:
 - [ ] JavaScript Calculator.
 - [x] [~~JavaScript BMI Calculator.~~](https://proffesorghost.github.io/bmi-calculator/) :tada:
 - [x] ~~JavaScript Clock [Digital]~~ :tada:
