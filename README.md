@@ -13,3 +13,4 @@
 - [ ] Rock Papper Scissor.
 - [ ] Weather App.
 - [ ] Web Scrapping.
+- [x] [Live visit counter.](https://proffesorghost.github.io/livevisitcounter/) :tada:
