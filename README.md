@@ -14,3 +14,4 @@
 - [ ] Weather App.
 - [ ] Web Scrapping.
 - [x] [~~Live visit counter.~~](https://proffesorghost.github.io/livevisitcounter/) :tada:
+- [x] [~~Push.Js-Notifications~~](https://proffesorghost.github.io/push.js-notifications/) :tada:
