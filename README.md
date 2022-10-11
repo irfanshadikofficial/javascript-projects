@@ -16,3 +16,4 @@
 - [x] [~~Live visit counter.~~](https://proffesorghost.github.io/livevisitcounter/) :tada:
 - [x] [~~Push.Js-Notifications~~](https://proffesorghost.github.io/push.js-notifications/) :tada:
 - [x] [~~Base64~~](https://proffesorghost.github.io/base64/) :tada:
+- [x] [~~Ip Lookup~~](https://proffesorghost.github.io/iplookie/) :tada:
