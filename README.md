@@ -17,3 +17,4 @@
 - [x] [~~Push.Js-Notifications~~](https://proffesorghost.github.io/push.js-notifications/) :tada:
 - [x] [~~Base64~~](https://proffesorghost.github.io/base64/) :tada:
 - [x] [~~Ip Lookup~~](https://proffesorghost.github.io/iplookie/) :tada:
+- [x] [~~Sololearn User Search App~~](https://proffesorghost.github.io/sololearn-user-search-app/) :tada:
