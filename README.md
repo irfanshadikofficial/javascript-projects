@@ -13,7 +13,7 @@
 - [ ] Rock Papper Scissor.
 - [ ] Weather App.
 - [ ] Web Scrapping.
-- [ ] Scroll Indicator.
+- [x] [Custom Scroll Indicator + Highlighter.](https://proffesorghost.github.io/customScrollIndicator-highlighter/) 🎉
 - [ ] [~~Cursor Animation on MouseMove.~~](https://proffesorghost.github.io/custom-cursor-tracker/) 🎉
 - [x] [~~Live visit counter.~~](https://proffesorghost.github.io/livevisitcounter/) :tada:
 - [x] [~~Push.Js-Notifications~~](https://proffesorghost.github.io/push.js-notifications/) :tada:
