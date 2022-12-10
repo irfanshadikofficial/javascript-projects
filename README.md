@@ -21,4 +21,4 @@
 - [x] [~~Ip Lookup~~](https://proffesorghost.github.io/iplookie/) :tada:
 - [x] [~~Sololearn User Search App~~](https://proffesorghost.github.io/sololearn-user-search-app/) :tada:
 - [ ] Captcha Generator.
-- [x] Animated Circle Text
+- [x] [~~Animated Circle Text~~](https://proffesorghost.github.io/animated-text-circle/) 🎉
